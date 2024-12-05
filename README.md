@@ -1,10 +1,10 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 <h1 align="center">Hello I'm Mohammed,</h1>
 
 ###
 
-<h2 align="center">Backend developer with experience in multiple programming languages. Passionate about performance optimization and building innovative technical solutions. Enthusiastic about continuous learning and staying updated with the latest technologies.</h2>
+<p align="center">Backend developer with experience in multiple programming languages. Passionate about performance optimization and building innovative technical solutions. Enthusiastic about continuous learning and staying updated with the latest technologies.</p>
 
 ###
 
