@@ -1,8 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
-<p align="center">Hello I'm Mohammed,</p>
+<h1 align="center">Hello I'm Mohammed,</h1>
 
 ###
 
